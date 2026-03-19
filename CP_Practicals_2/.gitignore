@@ -1,0 +1,11 @@
+# Compiled binaries
+dinner_table_arrangements
+maximum_and_subarray
+sliding_window_maximum
+sliding_window_maximum_with_updates
+network_latency
+time_dependent_shortest_path
+shortest_path_with_toll_booths
+
+# macOS metadata
+.DS_Store
