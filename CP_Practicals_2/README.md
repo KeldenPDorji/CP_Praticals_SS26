@@ -1,6 +1,6 @@
 # CP Practicals 2 - Advanced Programming Problems
 
-This folder contains solutions to 7 advanced competitive programming problems focusing on **backtracking**, **bit manipulation**, **graph algorithms**, and **state-space search**.
+Solutions to 7 advanced competitive programming problems focusing on **backtracking**, **bit manipulation**, **graph algorithms**, and **state-space search**.
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ Process queries on an array: Update an element or find the maximum in a sliding 
 
 **Operations:**
 - Type 1: Update A[pos] = val
-- Type 2: Query max in window [i−K+1, i]
+- Type 2: Query max in window [i-K+1, i]
 
 **Data Structure:** Array with Dynamic Range Query  
 **Screenshot:**  
@@ -85,7 +85,7 @@ Given a network of N routers connected by M bidirectional cables, find the minim
 
 **Example:**
 - Input: N=4, M=4, edges: (1,2,5) (2,3,3) (1,3,8) (3,4,2)
-- Output: 10 (path: 1→2→3→4)
+- Output: 10 (path: 1-2-3-4)
 
 **Algorithm:** Dijkstra's Algorithm  
 **Screenshot:**  
@@ -142,9 +142,9 @@ Navigate through N toll booths with M coins and at most K skips. At each booth, 
 ## Submission Checklist
 
 For each problem, the following files are included:
-- ✅ `problem_name.cpp` - C++ solution
-- ✅ `problem_name_analysis.md` - Detailed analysis with time/space complexity
-- ✅ `problem_name_screenshot.png` - Program output screenshot
+- `problem_name.cpp` - C++ solution
+- `problem_name_analysis.md` - Detailed analysis with time/space complexity
+- `problem_name_screenshot.png` - Program output screenshot
 
 ---
 

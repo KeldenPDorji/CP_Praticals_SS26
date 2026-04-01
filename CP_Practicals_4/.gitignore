@@ -1,0 +1,7 @@
+# Compiled binaries
+floyd_warshall
+johnsons_algorithm
+boruvka_algorithm
+
+# macOS metadata
+.DS_Store

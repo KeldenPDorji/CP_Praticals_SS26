@@ -1,6 +1,6 @@
 # CP Practicals 1 - Programming Problems
 
-This folder contains solutions to 10 competitive programming problems focusing on **vectors/dynamic arrays**, **deques**, **priority queues**, and **bitmask techniques**.
+Solutions to 10 competitive programming problems focusing on **vectors/dynamic arrays**, **deques**, **priority queues**, and **bitmask techniques**.
 
 ## Table of Contents
 
@@ -187,6 +187,6 @@ Given N numbers and a target sum X, count how many subsets have a sum equal to X
 ## Submission Checklist
 
 For each problem, the following files are included:
-- ✅ `problem_name.cpp` - C++ solution
-- ✅ `problem_name_analysis.md` - Detailed analysis with time/space complexity
-- ✅ `problem_name_screenshot.png` - Program output screenshot
+- `problem_name.cpp` - C++ solution
+- `problem_name_analysis.md` - Detailed analysis with time/space complexity
+- `problem_name_screenshot.png` - Program output screenshot
