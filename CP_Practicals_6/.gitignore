@@ -1,0 +1,23 @@
+# Compiled binaries
+basic_trie
+patricia_trie
+manacher_algorithm
+
+# Object files
+*.o
+*.obj
+
+# Executable extensions
+*.exe
+*.out
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
